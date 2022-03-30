@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2022/03/30/weconomy.svg"
   navigation:
   - link: "/"
-    link_text: Ubuild
+    link_text: This is link text
   - link: "#swap"
     link_text: Swap
   - link: "#customize"
