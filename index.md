@@ -38,7 +38,7 @@ page_sections:
   image:
     image: "/uploads/2022/03/30/the-futue-can-be-a-sweet-cup-of-coffee.jpg"
     alt_text: Welcome the decentralised future
-  background_image: "/uploads/2022/03/30/the-futue-can-be-a-sweet-cup-of-coffee.jpg"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
