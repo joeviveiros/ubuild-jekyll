@@ -8,6 +8,8 @@ url: ''
 defaults:
 - scope: ''
   values: ''
+- scope: ''
+  values: ''
 plugins:
 - jekyll-feed
 - jekyll-menus
