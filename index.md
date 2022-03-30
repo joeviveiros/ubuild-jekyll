@@ -36,7 +36,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: click & read
   image:
-    image: "/uploads/2022/03/30/wake-up-smell-the-coffee.mp4"
+    image: "/uploads/2022/03/30/the-futue-can-be-a-sweet-cup-of-coffee.jpg"
     alt_text: Welcome the decentralised future
   background_image: "/uploads/2022/03/30/wake-up-smell-the-coffee.mp4"
 - template: content-feature
