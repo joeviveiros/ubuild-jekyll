@@ -29,7 +29,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: read all about it
   image:
     image: "/uploads/2022/03/30/the-futue-can-be-a-sweet-cup-of-coffee.jpg"
     alt_text: Wake up & small the coffee
